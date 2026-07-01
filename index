@@ -1,1 +1,13 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<title>work5 html links</title>
+</head>
+<body>
+<a href="http://www.rr.ac.th" target="_blank">รร.รัตนราษฎร์บำรุง</a>
 
+<a href="work04-67-07.html"target="_blank>เปิดงานที่4</a>
+
+<a href="6767.jpg"target="_blank"><img src+"6767.jpg" width="80px">
+</body>
+</html>
